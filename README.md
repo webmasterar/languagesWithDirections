@@ -2,7 +2,7 @@ This repository contains a list of officially recognised languages as per
 ISO-639-2 in addition to the current direction it is written in in its most
 popular or modern script.
 
-The column headers of the CSV file are: alpha3, altAlpha3, alpha2, enLabel, frLabel,
+The column headers of the CSV/TXT files are: alpha3, altAlpha3, alpha2, enLabel, frLabel,
 direction. The directions are LTR (left-to-right), RTL (right-to-left) or TTB
 (top-to-bottom left-to-right).
 
